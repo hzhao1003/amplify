@@ -1,6 +1,8 @@
 {
-  "domain": "dev-37yoa2h5.us.auth0.com",
-  "clientId": "INfcSwGwX68uZlWy2FlIh3KbJiFKDjw7",
-  "audience": "",
+  "domain": "dev-bsidv65ze1ptq1by.us.auth0.com",
+  "clientId": "hxL8eF9r8KSfdNmhwhJxYZNs0fT2YnP2",
+  "authorizationParams": {
+    "audience": ""
+  },
   "serverUrl": ""
 }

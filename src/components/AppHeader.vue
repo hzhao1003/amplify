@@ -36,9 +36,10 @@ export default {
     return {
       dialog: false,
       menuItems: [
-        { title: 'Home', path: '/' }
-        // { title: 'About', path: '/about' }
-      ]
+        { title: 'Home', path: '/' },
+         //{ title: 'About', path: '/about' }
+        {title: 'Login', path: '/login'}
+    ]
     }
   }
 }
